@@ -1,0 +1,92 @@
+[
+    {
+        "codigo": "P001",
+        "titulo": "Bibimbap",
+        "categoria": "Platos Principales",
+        "precio": "6.50"
+    },
+    {
+        "codigo": "P002",
+        "titulo": "Bulgogi",
+        "categoria": "Platos Principales",
+        "precio": "7.00"
+    },
+    {
+        "codigo": "P003",
+        "titulo": "Japchae",
+        "categoria": "Platos Principales",
+        "precio": "6.00"
+    },
+    {
+        "codigo": "E001",
+        "titulo": "Tteokbokki",
+        "categoria": "Entradas",
+        "precio": "4.50"
+    },
+    {
+        "codigo": "E002",
+        "titulo": "Mandu",
+        "categoria": "Entradas",
+        "precio": "4.00"
+    },
+    {
+        "codigo": "E003",
+        "titulo": "Kimbap",
+        "categoria": "Entradas",
+        "precio": "5.00"
+    },
+    {
+        "codigo": "S001",
+        "titulo": "Kimchi Jjigae",
+        "categoria": "Sopas y Ramen",
+        "precio": "5.50"
+    },
+    {
+        "codigo": "S002",
+        "titulo": "Ramyeon",
+        "categoria": "Sopas y Ramen",
+        "precio": "5.00"
+    },
+    {
+        "codigo": "S003",
+        "titulo": "Sundubu Jjigae",
+        "categoria": "Sopas y Ramen",
+        "precio": "6.50"
+    },
+    {
+        "codigo": "B001",
+        "titulo": "Banana Milk",
+        "categoria": "Bebidas",
+        "precio": "2.50"
+    },
+    {
+        "codigo": "B002",
+        "titulo": "Sikhye",
+        "categoria": "Bebidas",
+        "precio": "3.00"
+    },
+    {
+        "codigo": "B003",
+        "titulo": "Yuja Tea",
+        "categoria": "Bebidas",
+        "precio": "2.25"
+    },
+    {
+        "codigo": "D001",
+        "titulo": "Bingsu",
+        "categoria": "Postres",
+        "precio": "2.75"
+    },
+    {
+        "codigo": "D002",
+        "titulo": "Hotteok",
+        "categoria": "Postres",
+        "precio": "1.50"
+    },
+    {
+        "codigo": "D003",
+        "titulo": "Yakgwa",
+        "categoria": "Postres",
+        "precio": "3.00"
+    }
+]

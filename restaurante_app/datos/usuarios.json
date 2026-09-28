@@ -1,0 +1,44 @@
+[
+    {
+        "identificador": "1600855322",
+        "nombre": "Sofia Borja",
+        "usuario": "admin",
+        "contraseña": "1234"
+    },
+    {
+        "identificador": "0703553776",
+        "nombre": "Angel Borja",
+        "usuario": "cajero",
+        "contraseña": "abcd"
+    },
+    {
+        "identificador": "1600357584",
+        "nombre": "Diana Heras",
+        "usuario": "diana",
+        "contraseña": "1234"
+    },
+    {
+        "identificador": "1600419855",
+        "nombre": "Luis Heras",
+        "usuario": "luis",
+        "contraseña": "5678"
+    },
+    {
+        "identificador": "1450200051",
+        "nombre": "Alejandra Heras",
+        "usuario": "aleja",
+        "contraseña": "4321"
+    },
+    {
+        "identificador": "1450200058",
+        "nombre": "Alejandra Puma",
+        "usuario": "alpuma",
+        "contraseña": "8765"
+    },
+    {
+        "identificador": "1600243370",
+        "nombre": "Nancy Heras",
+        "usuario": "nancy",
+        "contraseña": "7539"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "identificador": "V001",
+        "usuario_id": "0703553776",
+        "producto_codigo": "P001",
+        "fecha": "2026-09-27"
+    },
+    {
+        "identificador": "V002",
+        "usuario_id": "1450200058",
+        "producto_codigo": "E003",
+        "fecha": "2026-09-27"
+    },
+    {
+        "identificador": "V003",
+        "usuario_id": "1600855322",
+        "producto_codigo": "B001",
+        "fecha": "2026-09-27"
+    },
+    {
+        "identificador": "V004",
+        "usuario_id": "1600357584",
+        "producto_codigo": "D002",
+        "fecha": "2026-09-27"
+    },
+    {
+        "identificador": "V005",
+        "usuario_id": "1600419855",
+        "producto_codigo": "S003",
+        "fecha": "2026-09-27"
+    },
+    {
+        "identificador": "V006",
+        "usuario_id": "1600243370",
+        "producto_codigo": "S002",
+        "fecha": "2026-09-27"
+    },
+    {
+        "identificador": "V007",
+        "usuario_id": "1450200051",
+        "producto_codigo": "B003",
+        "fecha": "2026-09-27"
+    }
+]
